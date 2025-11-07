@@ -29,9 +29,8 @@ Continuous mixtures of PCs (CMPCs) are appropriately-weighted ensembles of PCs w
 
 Hybrid CMPCs are CMPCs learned using a hybrid learning objective which encourages both generative and discriminative learning.
 
-**Classification accuracies obtained by a hybrid CMPC trained on Binary MNIST**
+**Classification accuracies obtained by a hybrid CMPC trained on Binary MNIST with differing levels of missing pixel values**
 ![pic_3](figures/accuracies.png)
-We see that hybrid CMPCs can classify incomplete samples effectively
 
 **Samples drawn from a hybrid CMPC trained on Binary MNIST**
 ![pic_3](figures/samples.png)
